@@ -6,3 +6,5 @@ The Sample Project contains 2 parts
  2. Script folder contains the procrun.exe for x64 and the bat file to create the windows service.
  
  For all the instructions follow this BLOG Post.
+ 
+ http://alltechanalysis.blogspot.com/2017/04/hazelcast-as-windows-service-using.html
